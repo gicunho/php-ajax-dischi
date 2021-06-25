@@ -14,14 +14,7 @@
           <header class="bg_grey">
             <!-- Site Header -->
             <img width="80" src="./dist/img/logo.png" alt="logo Spotify" class="p-2">
-<!--             <select name="genre" id="genre">
-                <option value="all">All</option>
-                <option value="rock">Rock</option>
-                <option value="pop">Pop</option>
-                <option value="jazz">Jazz</option>
-                <option value="metal">Metal</option>
 
-            </select> -->
             <!-- /Site Header -->
           </header>
           

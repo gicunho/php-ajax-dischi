@@ -31,25 +31,14 @@
                 <h3><?= $album['author'] ?></h3>
                 <h3><?= $album['year'] ?></h3>
               </div>
-          <?php  }
-            
+          <?php  }          
             ?>
-<!--             <div class="album bg_grey p-2 m-3" v-for='album in albums'>
-                <img :src="album.poster" alt="">
-                <h2>{{album.title}}</h2>
-                <h3>{{album.author}}</h3>
-                <h3>{{album.year}}</h3>
-            </div> -->
-            <!-- /Site Main Content -->
+
           </main>
 
       </div>
 
-    <!-- Axios CDN -->
-<!--     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js" integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
- -->    <!-- Vue JS CDN -->
-<!--     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script> -->
-    <!-- My Script -->
+
     <script src="./dist/js/app.js"></script>
 </body>
 </html>
