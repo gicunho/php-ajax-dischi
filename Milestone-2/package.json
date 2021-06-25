@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/gicunho/php-ajax-dischi#readme",
   "devDependencies": {
-    "laravel-mix": "^6.0.25"
+    "laravel-mix": "^6.0.25",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.35.1",
+    "sass-loader": "^12.1.0"
   }
 }
